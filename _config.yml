@@ -1,0 +1,28 @@
+name: Pronkstøk
+favicon: null
+layout_spectrum: 0.924621970159933
+typography_spectrum: 0.8120630297344178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9844098982866853
+  lightness: 0.2684446256607771
+  saturation: 0.3436934754718095
+  rhythmicContrast: 0.30331108602695167
+purpose: []
