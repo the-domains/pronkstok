@@ -1,7 +1,7 @@
 name: Pronkstøk
 favicon: null
 layout_spectrum: 0.924621970159933
-typography_spectrum: 0.8120630297344178
+typography_spectrum: 0.4991
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.9844098982866853
-  lightness: 0.2684446256607771
-  saturation: 0.3436934754718095
-  rhythmicContrast: 0.30331108602695167
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
