@@ -4,8 +4,15 @@
         <description><![CDATA[Pronkstøk]]></description>
         <link>https://thegrid.ai/pronkstok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 11:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 11:57:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pronkstok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Handgemaakt rolluikkastje]]></title>
+            <description><![CDATA[<article><h1>Handgemaakt rolluikkastje</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c926b7e-05ac-4802-8b5a-337e8d5e4266.png"></article>]]></description>
+            <link>https://thegrid.ai/pronkstok/handgemaakt-rolluikkastje/index.html</link>
+            <guid isPermaLink="false">6413cd4c-8c63-447b-9283-9b8465f6e472</guid>
+            <pubDate>Sat, 26 Mar 2016 11:56:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vintage audiomeubel ]]></title>
             <description><![CDATA[<article><h1>Vintage audiomeubel </h1><p>Vintage audiomeubel</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26a863ef-3ea8-4677-9333-57a64c61ca5d.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Perzisch tapijt</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c23e0184-4413-416d-9e8e-d237f443e8ed.png"></article>]]></description>
             <link>https://thegrid.ai/pronkstok/perzisch-tapijt/index.html</link>
             <guid isPermaLink="false">51d8b2e3-a54f-49f7-8c46-f7cfcd1ad926</guid>
-            <pubDate>Sat, 26 Mar 2016 11:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Acapulco draadstoel ]]></title>
-            <description><![CDATA[<article><h1>Acapulco draadstoel </h1><p>Acapulco draadstoel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73a9d0ac1eb0b9ecc5868f09c51812cf0e2c6716.png"></article>]]></description>
-            <link>https://thegrid.ai/pronkstok/acapulco-draadstoel/index.html</link>
-            <guid isPermaLink="false">7e9c8ff1-d039-46d5-902c-9cbfa9e55d00</guid>
             <pubDate>Sat, 26 Mar 2016 11:56:29 GMT</pubDate>
         </item>
     </channel>
