@@ -1,5 +1,7 @@
-favicon: null
-name: Pronkstøk
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -27,14 +29,12 @@ color:
     - '#25272A'
     - '#A5A7AA'
     - '#FEC83A'
-  rhythmicContrast: 0.4319149
+  rhythmicContrast: 0
 typography_spectrum: 0.4991
 layout_spectrum: 0.9872341
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Pronkstøk
