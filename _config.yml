@@ -1,3 +1,4 @@
+favicon: null
 cta:
   bucket: null
   version: null
@@ -12,17 +13,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0
   brandStrength: 0.375
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#125688'
@@ -36,5 +37,4 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Pronkstøk
