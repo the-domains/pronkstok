@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Pronkstøk
 opengraph:
   image: null
   type: null
@@ -20,7 +18,7 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 0.375
   lightness: 1
   brandColors:
@@ -31,10 +29,12 @@ color:
     - '#FEC83A'
   rhythmicContrast: 0.4319149
 typography_spectrum: 0.4991
+layout_spectrum: 0.9872341
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9872341
-favicon: null
-name: Pronkstøk
+analytics:
+  twitter: null
+  google: null
+  facebook: null
