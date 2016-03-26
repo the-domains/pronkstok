@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pronkstøk]]></title>
         <description><![CDATA[Pronkstøk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pronkstok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 11:35:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 11:56:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pronkstok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vintage schoolbord]]></title>
+            <description><![CDATA[<h1>Vintage schoolbord</h1>]]></description>
+            <link>https://thegrid.ai/pronkstok/vintage-schoolbord/index.html</link>
+            <guid isPermaLink="false">89c9486c-6832-449d-878d-c21fcde909e8</guid>
+            <pubDate>Sat, 26 Mar 2016 11:56:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vintage ledikantje]]></title>
             <description><![CDATA[<article><h1>Vintage ledikantje</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdec0fff-5279-4438-816c-033c7b5bf97c.png"></article>]]></description>
-            <link>undefinedvintage-ledikantje/index.html</link>
+            <link>https://thegrid.ai/pronkstok/vintage-ledikantje/index.html</link>
             <guid isPermaLink="false">5dd27d6d-6482-4eb6-a07a-bfbb5d3715bb</guid>
             <pubDate>Sat, 26 Mar 2016 11:35:15 GMT</pubDate>
         </item>
